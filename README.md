@@ -1,0 +1,1 @@
+This is a website where you can play rock paper scissors with the computer. An update was made on Nov 17 2021 to include a user interface, where before it was only a command line game. Have fun!
